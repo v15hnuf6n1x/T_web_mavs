@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mavi Terabox Downloader",
-  description: "Download any downloadable files from terabox.com",
+  title: "Terabox Downloader",
+  description: "Download any files from terabox.com",
 };
 
 export default function RootLayout({
