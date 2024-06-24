@@ -122,7 +122,7 @@ export default function Home() {
     <div className="pt-6 mx-12">
       <nav className="flex justify-between ">
         <div className="self-center">
-          <Link href="/">Mavi Terabox Downloader</Link>
+          <Link href="/">Terabox Downloader</Link>
         </div>
         <ul className="flex items-center gap-3 ">
           <li>
@@ -134,7 +134,7 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600  ">
-              <Link href="https://t.me/MODSMAVI">Telegram</Link>
+              <Link href="https://t.me/terabolj,j">Telegram</Link>
             </Button>
           </li>
         </ul>
