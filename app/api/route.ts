@@ -55,7 +55,7 @@ export async function GET(req: NextRequest, res: NextResponse) {
       "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
       Connection: "keep-alive",
       DNT: "1",
-      Host: "www.terabox.app",
+      Host: "www.1024tera.com",
       "Sec-Fetch-Dest": "document",
       "Sec-Fetch-Mode": "navigate",
       "Sec-Fetch-Site": "none",
